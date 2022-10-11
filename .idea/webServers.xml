@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a4569d9-630a-46ef-8d1b-e8c5690fb3b2" name="Ubuntu22">
+        <fileTransfer rootFolder="/home/aotm/DebugHack" accessType="SFTP" host="localhost" port="2222" sshConfigId="b92d41a5-ed39-4e27-8314-74a36677e9cb" sshConfig="aotm@localhost:2222 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
